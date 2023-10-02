@@ -41,3 +41,9 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+.apresentacao__links__link {
+    background-color: #22d4fd;
+    width: 280px;
+    text-align: center;
+}
